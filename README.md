@@ -1,1 +1,2 @@
-# Paperball-and-Bin
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
